@@ -32,3 +32,16 @@ textarea{
     margin: 20px 0;
     width: 370px;
 }
+a{
+    text-decoration: none;
+    font-family: Verdana;
+    padding: 20px;
+}
+small{
+    margin-top: 30px;
+    color: #fff;
+    background-color: black;
+    padding: 20px 0;
+    width: 100%;
+    display: block;
+}
