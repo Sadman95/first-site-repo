@@ -25,3 +25,10 @@ img{
     width: 250px;
     margin: 0 20px;
 }
+input{
+    margin: 0 20px;
+}
+textarea{
+    margin: 20px 0;
+    width: 300px;
+}
