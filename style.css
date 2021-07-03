@@ -3,6 +3,10 @@ h1,h2,h3,h5{
     color: navy;
     font-family: Arial;
 }
+.name{
+    font-size: 2rem;
+    color: cadetblue;
+}
 p{
     text-align: justify;
     padding: 40px 24px;
@@ -15,4 +19,9 @@ p{
     margin: 0 auto;
     width: 130px;
     display: block;
+}
+img{
+    height: 200px;
+    width: 250px;
+    margin: 0 20px;
 }
