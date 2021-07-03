@@ -4,10 +4,15 @@ h1,h2,h3,h5{
     font-family: Arial;
 }
 p{
-    text-align: center;
-    padding: 20px;
+    text-align: justify;
+    padding: 40px 24px;
     font-size: 18px;
     font-family: sans-serif;
     color: lavenderblush;
     background-color: rgba(0, 0, 0, 0.555);
+}
+.center{
+    margin: 0 auto;
+    width: 130px;
+    display: block;
 }
